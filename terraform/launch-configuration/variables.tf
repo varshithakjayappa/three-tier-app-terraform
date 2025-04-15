@@ -1,0 +1,10 @@
+variable "project_name" {}
+variable "image_id" {}
+variable "ec2_instance_type" {}
+variable "webserver_sg_id" {}
+variable "env" {}
+variable "rds_endpoint" {}
+variable "database_name" {}
+variable "database_username" {}
+variable "database_password" {}
+variable "record_names" {}
